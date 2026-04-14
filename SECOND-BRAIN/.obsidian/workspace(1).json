@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "aa0ed0177c1b88b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "edc9543f9c76ec3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03fc10297dbfc877",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e233f59f5010ce80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/maths/argomenti/Equazioni-Disequazioni/equazioni-1-2-grado/EQUAZIONI DI PRIMO E SECONDO GRADO-DISEQUAZIONI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EQUAZIONI DI PRIMO E SECONDO GRADO-DISEQUAZIONI"
+            }
+          },
+          {
+            "id": "210ae4f7aee0c23e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/maths/argomenti/valore assoluto/VALORE ASSOLUTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VALORE ASSOLUTO"
+            }
+          },
+          {
+            "id": "028cbc4e900db16a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/fisica/argomenti/vettori/VETTORI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VETTORI"
+            }
+          },
+          {
+            "id": "2c7498158a1d6de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/fisica/argomenti/vettori/operazioni con i vettori/OPERAZIONI CON I VETTORI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OPERAZIONI CON I VETTORI"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba3b8e566b299289",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae374a6b5339e2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1058e192d6d599d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a44068ef94ed1a8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "738a184301c76965",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b0c2e89373951249",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d7e22ce18cd1adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eae506d475d2fd15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "start/fisica/argomenti/analisi e teoria dei segnali/ANALISI E LA TEORIA DEGLI ERRORI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ANALISI E LA TEORIA DEGLI ERRORI"
+            }
+          },
+          {
+            "id": "ff585c7a1e019f3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "start/appunti-scuola/inglese/tecnico/parts/web-apps/Web apps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Web apps"
+            }
+          },
+          {
+            "id": "8a77207662e32e83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "89a283a74da25ea4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "start/appunti-scuola/inglese/tecnico/parts/web-apps/Web apps.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Web apps"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2c7498158a1d6de5",
+  "lastOpenFiles": [
+    "start/fisica/argomenti/vettori/VETTORI.md",
+    "start/maths/argomenti/valore assoluto/VALORE ASSOLUTO.md",
+    "start/informatica/Algoritmi/ALGORITMI.md",
+    "start/maths/argomenti/Equazioni-Disequazioni/equazioni-1-2-grado/EQUAZIONI DI PRIMO E SECONDO GRADO-DISEQUAZIONI.md",
+    "start/maths/MATHS.md",
+    "start/maths/argomenti/Equazioni-Disequazioni/sistema di disequazioni/SISTEMI DI DISEQUAZIONI.md",
+    "start/informatica/Algoritmi/DIAGRAMMA DI FLUSSO.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/tipologie di funzioni/TIPOLOGIE DI FUNZIONI.md",
+    "start/maths/argomenti/logaritmi/LOGARITMI.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/tipologie di funzioni/tipologie-di-funzioni.png",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/tipologie di funzioni/tipologie-di-funzioni.png",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/tipologie di funzioni",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Classificazione delle funzioni/CLASSIFICAZIONE DELLE FUNZIONI.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/STUDIO DI FUNZIONE.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/tipologie di funzioni",
+    "start/informatica/Algoritmi/struttura-di-iterazione.png",
+    "start/informatica/Algoritmi/struttura-condizionale.png",
+    "start/informatica/Algoritmi/struttura-di-sequenza.png",
+    "start/informatica/Algoritmi/esempio1-flowchart.png",
+    "start/informatica/Algoritmi/Screenshot (55).png",
+    "DIAGRAMMA DI FLUSSO(3).md",
+    "start/informatica/Algoritmi/flowchart-simboli.png",
+    "start/informatica/ESEMPIO-flowchart-js/flowchart js.md",
+    "start/informatica/ESEMPIO-flowchart-js/js/utility/scroll-card/SCROLL CARD.md",
+    "start/informatica/ESEMPIO-flowchart-js/js/JS.md",
+    "start/fisica/argomenti/densità/DENSITÀ.md",
+    "start/fisica/FISICA.md",
+    "start/informatica/INFORMATICA.md",
+    "start/informatica/Algoritmi",
+    "start/fisica/argomenti/densità",
+    "start/fisica/argomenti/le unità di misura/LE UNITÀ DI MISURA.md",
+    "start/fisica/argomenti/analisi e teoria dei segnali/ANALISI E LA TEORIA DEGLI ERRORI.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Classificazione delle funzioni/proprietà della funzione esponenziale/PROPRIETÀ DELLA FUNZIONE ESPONENZIALE.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Classificazione delle funzioni/PROPRIETÀ DELLA FUNZIONE ESPONENZIALE.md",
+    "start/fisica/argomenti/vettori/operazioni con i vettori/OPERAZIONI CON I VETTORI(1).md",
+    "start/informatica/Ethickal hacking/Linux/LINUX.md",
+    "GESTIONE DELLE VARIBILI D'AMBIENTE.md",
+    "GESTIONE DELLE VARIBILI D'AMBIENTE(22).md",
+    "start/maths/argomenti/Equazioni-Disequazioni/sistema di disequazioni",
+    "start/maths/argomenti/Equazioni-Disequazioni/equazioni-disequazioni-irrazionali",
+    "start/maths/argomenti/Equazioni-Disequazioni/sistema di disequazioni/sistema-di-disequazioni.png",
+    "start/maths/argomenti/Equazioni-Disequazioni/equazioni-1-2-grado",
+    "Untitled.canvas",
+    "start/fisica/argomenti/Meccanica/argomenti/velocità/velocità-istantanea.png",
+    "start/fisica/argomenti/Meccanica/argomenti/velocità",
+    "start/fisica/argomenti/Meccanica/argomenti/cinematica del punto/diagramma-orario.png.~tmp",
+    "start/fisica/argomenti/Meccanica/argomenti/cinematica del punto/segmento-di-retta.png.~tmp",
+    "start/maths/argomenti/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:LIBRI",
+      "color": {
+        "a": 1,
+        "rgb": 16098048
+      }
+    },
+    {
+      "query": "file:SUITE ADOBE",
+      "color": {
+        "a": 1,
+        "rgb": 65450
+      }
+    },
+    {
+      "query": "file:PRESENTAZIONE PERSONALE",
+      "color": {
+        "a": 1,
+        "rgb": 10944762
+      }
+    },
+    {
+      "query": "file:INFORMATICA",
+      "color": {
+        "a": 1,
+        "rgb": 62720
+      }
+    },
+    {
+      "query": "file:START",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "file:NOTE",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "file:IDEE",
+      "color": {
+        "a": 1,
+        "rgb": 7935
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.21389682952183,
+  "lineSizeMultiplier": 1.57203742203742,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 15.4054054054054,
+  "linkStrength": 1,
+  "linkDistance": 240,
+  "scale": 0.03018289506732421,
+  "close": true
+}

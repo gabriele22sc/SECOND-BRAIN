@@ -1,0 +1,1 @@
+Libreria d'animazione costruita da [[Software Mansion]], dov'è possibile creare smooth animations e interazioni controllate da thread UI

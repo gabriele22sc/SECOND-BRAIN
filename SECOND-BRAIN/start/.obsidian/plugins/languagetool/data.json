@@ -1,0 +1,24 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "autoCheckDelay": 3000,
+  "shouldAutoCheck": false,
+  "languageVariety": {
+    "en": "en-US",
+    "de": "de-DE",
+    "pt": "pt-PT",
+    "ca": "ca-ES"
+  },
+  "dictionary": [
+    "ciphertext",
+    "force",
+    "malware",
+    "peer-to-peer",
+    "S-Box",
+    "Shift",
+    "worm"
+  ],
+  "syncDictionary": false,
+  "remoteDictionary": [],
+  "pickyMode": false,
+  "staticLanguage": "en-US"
+}

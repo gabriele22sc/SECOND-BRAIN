@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"5f28091d3d75bda9","x":-100,"y":-60,"width":218,"height":380,"type":"text","text":"api.app.com\n\n\n\tCSRF:cxz..\nUSER_ID: 1\n\n\t     ^\n\t     |\n\t     |\n\n- findOrCreate user by google_id\n- authenticate user\n"},
+		{"id":"584ecd3f7ca939eb","x":-580,"y":-60,"width":140,"height":380,"type":"text","text":"app.com"},
+		{"id":"8f845977320ce7b7","x":500,"y":-60,"width":162,"height":380,"type":"text","text":"google.com"},
+		{"id":"e84d8ff4ac41f91d","x":180,"y":-60,"width":258,"height":381,"type":"text","text":"<--  /auth/google/callback\n\tauth_code...    ---\n\n---    auth_code: \n\tclient_id:\n\tclient_secret:\n\tredirect_uri:    ->\n\n<-  access_token: ---\n\n--- /google/user\n    access_token:   ->\n\n<-   user details ---"}
+	],
+	"edges":[
+		{"id":"03e104cdfca4741d","fromNode":"584ecd3f7ca939eb","fromSide":"top","toNode":"5f28091d3d75bda9","toSide":"top","label":"/auth/google/redirect"},
+		{"id":"8c2d5399bdad687f","fromNode":"5f28091d3d75bda9","fromSide":"top","toNode":"8f845977320ce7b7","toSide":"top","label":"cliend_id:\nredirect_uri: /auth/google/callback"}
+	]
+}

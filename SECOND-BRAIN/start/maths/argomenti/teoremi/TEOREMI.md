@@ -1,0 +1,5 @@
+![[teoremi1.jpg]]
+![[teoremi2.jpg]]
+![[teoremi3.jpg]]
+![[teoremi4.jpg]]
+![[teoremi5.jpg]]

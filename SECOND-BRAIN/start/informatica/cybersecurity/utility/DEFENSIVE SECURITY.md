@@ -1,0 +1,4 @@
+La Defensive Security tutto ciò che serve per cercare e fermare i malintenzionati.
+
+I **Security Analysts** sono i pionieri per quanto riguarda le operazioni di sicurezza difensiva ed è il lavoro più richiesto nella sicurezza informatica. Sono i responsabili della ricezione, dell'analisi e del triage dei ticket di sicurezza come parte del **Security Operations Center(SOC)** di un'organizzazione. Il loro primo impegno è quello di garantire che gli strumenti digitali dell'organizzazione siano al sicuro da accessi non autorizzati: proteggere le infrastrutture online e on-premise, monitorare metriche e dati per identificare attività sospette, mitigazione dei rischi prima che i malintenzionati possano violare il sistema.
+Cybrary

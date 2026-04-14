@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "c0b20e2ec3a03b67",
+    "type": "split",
+    "children": [
+      {
+        "id": "04185496018a929c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a17020a5940eaa7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "d2f09662aa148ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CALCOLATORI ELETTRONICI"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6db748443e606995",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3c1f748c5e75488c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Esplora risorse"
+        }
+      },
+      {
+        "id": "d84ae49a899b39f4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Indirizzi ",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Ricerca"
+        }
+      },
+      {
+        "id": "1acd512df9a63da4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e4b06d08dbcef933",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "aa9f1fe520bbbd97",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Tutte le proprietà"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "69624f1696df7c7a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "299005cffd615a39",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "start/fisica/argomenti/Elettrostatica/2/ELETTROSTATICA 2.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Riferimenti"
+        }
+      },
+      {
+        "id": "b6c46778d59b5007",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "1d85c995e6638f80",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "d2f09662aa148ac7",
+  "lastOpenFiles": [
+    "start/fisica/argomenti/Elettrostatica/2/ELETTROSTATICA 2.md",
+    "start/informatica/Calcolatori Elettronici/Metodologia di analisi-sintesi di Reti Combinatorie/Metodologia di analisi-sintesi di Reti Combinatorie.md",
+    "start/informatica/Algoritmi/Algoritmo di berger/ALGORITMO DI BERGER.md",
+    "start/informatica/Algoritmi/Diagramma di flusso",
+    "start/informatica/Algoritmi/Algoritmo di berger",
+    "start/informatica/Algoritmi/ALGORITMI.md",
+    "start/informatica/Algoritmi/Diagramma di flusso/DIAGRAMMA DI FLUSSO.md",
+    "start/informatica/esp32/utility-library/Esp32-s2-mini/ESP-32-S2-Mini.md",
+    "start/informatica/esp32/utility-library/Esp32-s2-mini",
+    "start/informatica/esp32/utility-library/Esp32-s2-mini/Pasted image 20260319214849.png",
+    "start/informatica/esp32/ESP32.md",
+    "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
+    "start/fisica/argomenti/Elettrostatica/2/Pasted image 20260309150922.png",
+    "start/fisica/argomenti/Elettrostatica/2/Pasted image 20260309145932.png",
+    "start/informatica/Calcolatori Elettronici/Metodologia di analisi-sintesi di Reti Combinatorie/Pasted image 20260307172649.png",
+    "start/informatica/Calcolatori Elettronici/Metodologia di analisi-sintesi di Reti Combinatorie/Pasted image 20260307160638.png",
+    "start/informatica/Calcolatori Elettronici/Metodologia di analisi-sintesi di Reti Combinatorie/Pasted image 20260307160134.png",
+    "start/informatica/Calcolatori Elettronici/Senza nome.md",
+    "start/informatica/Calcolatori Elettronici/Metodologia di analisi-sintesi di Reti Combinatorie",
+    "start/informatica/Calcolatori Elettronici/Algebra di Boole/ALGEBRA DI BOOLE.md",
+    "start/informatica/Calcolatori Elettronici/Algebra di Boole/Pasted image 20260307154459.png",
+    "start/informatica/Calcolatori Elettronici/Algebra di Boole/Pasted image 20260307153231.png",
+    "start/informatica/Calcolatori Elettronici/Algebra di Boole/Pasted image 20260307152544.png",
+    "start/informatica/Calcolatori Elettronici/Algebra di Boole/Pasted image 20260307152431.png",
+    "start/informatica/linguaggi-di-programmazione/C/argomenti/Libreria/LIBRERIE.md",
+    "start/informatica/linguaggi-di-programmazione/C/argomenti/Libreria/<stdio.h>/LIBRERIA <stdio.h>.md",
+    "start/informatica/linguaggi-di-programmazione/C/C.md",
+    "start/informatica/linguaggi-di-programmazione/C/argomenti/Libreria",
+    "start/maths/argomenti/integrali/INTEGRALI.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/STUDIO DI FUNZIONE.md",
+    "start/fisica/argomenti/metodo scientifico/METODO SCIENTIFICO E LE GRANDEZZE FISICHE.md",
+    "start/fisica/argomenti/vettori/operazioni con i vettori/OPERAZIONI CON I VETTORI.md",
+    "start/fisica/argomenti/vettori/VETTORI.md",
+    "start/fisica/argomenti/Meccanica/MECCANICA.md",
+    "start/fisica/FISICA.md",
+    "start/fisica/argomenti/Elettrostatica/1/ELETTROSTATICA 1.md",
+    "start/informatica/Microcontrollori-microprocessori/MICROCONTROLLORI E MICROPROCESSORI.md",
+    "start/fisica/argomenti/Elettrostatica/2",
+    "start/fisica/argomenti/Elettrostatica/ELETTROSTATICA.md",
+    "start/fisica/argomenti/Elettrostatica/1",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/STUDIO DI FUNZIONE REALE DI VARIABILE REALE.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/tipologie di funzioni/TIPOLOGIE DI FUNZIONI.md",
+    "start/informatica/Microcontrollori-microprocessori",
+    "start/informatica/Algebra di Boole",
+    "start/fisica/argomenti/Elettrostatica"
+  ]
+}

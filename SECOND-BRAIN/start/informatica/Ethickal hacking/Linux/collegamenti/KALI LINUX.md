@@ -1,0 +1,1 @@
+Kali linux è una distribuzione di linux specificatamente progettata per il penetration testing. Dispone di centinaia di strumenti preinstallati, che consentono di risparmiare ore di lavoro per scaricarli e installarli manualmente.

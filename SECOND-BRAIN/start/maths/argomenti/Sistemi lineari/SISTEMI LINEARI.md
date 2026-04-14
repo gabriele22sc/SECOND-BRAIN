@@ -1,0 +1,5 @@
+![[sistemi lineari.jpg]]
+![[metodo riduzione.jpg]]
+![[metodo confronto e cramer.jpg]]
+![[3x3sostituzione.jpg]]
+![[3x3cramer.jpg]]

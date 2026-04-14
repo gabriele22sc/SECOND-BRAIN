@@ -1,0 +1,1 @@
+Esegue ad iterare un blocco di codice più volte, con una logica ben definita. In JS troviamo le varianti `for-in` e `for-of`. 

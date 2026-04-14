@@ -1,0 +1,771 @@
+{
+  "main": {
+    "id": "7233b9c433c59a33",
+    "type": "split",
+    "children": [
+      {
+        "id": "f41f36233a6b1446",
+        "type": "tabs",
+        "dimension": 31.300268096514746,
+        "children": [
+          {
+            "id": "8736804cd32715bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "8969a55c7949ef17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CALCOLATORI ELETTRONICI"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d952e4c9fb70b90d",
+        "type": "tabs",
+        "dimension": 68.69973190348526,
+        "children": [
+          {
+            "id": "ca63682ef0b93005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "informatica/Calcolatori Elettronici/Metodologia di analisi-sintesi di Reti Combinatorie/Metodologia di analisi-sintesi di Reti Combinatorie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metodologia di analisi-sintesi di Reti Combinatorie"
+            }
+          },
+          {
+            "id": "b8dc18a7d8bd53ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CIRCUITI INTEGRATI E ARITMETICI 5"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "367d1ebdab8b4701",
+    "type": "split",
+    "children": [
+      {
+        "id": "03c0923936184c9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d13c864f0f8616ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "b24394e2b641b974",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "03bc2c6f262d2bac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "799d882e65a5628f",
+    "type": "split",
+    "children": [
+      {
+        "id": "23c468d1d2fdb86f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bffb908b50f96b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "appunti-scuola/Italiano/Luigi Pirandello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Luigi Pirandello"
+            }
+          },
+          {
+            "id": "3f7768c2365395cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "appunti-scuola/Italiano/Luigi Pirandello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Luigi Pirandello"
+            }
+          },
+          {
+            "id": "e6185030be628d2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "3a97c01e26fe535c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "appunti-scuola/Italiano/Luigi Pirandello.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Luigi Pirandello"
+            }
+          },
+          {
+            "id": "5ffb0a23806a05a5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "083d67cd34da587f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "bacc0abee17327dd",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "d5233aa40d24f708",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "6979a25ce8c20e0a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "a2b96cfa3165a195",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "2b89587761f52610",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "3764ac6f4c2fe2b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "b79022bce0dcc329",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "d70f7c80ee73378c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "7160e9047924b4fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "55e1788084d49923",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "eaea8d3fe3fa1923",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "5f576be2abf27390",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "08d9b36796864498",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "8478fbfdee1a4131",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "b5ae6fa9e936effa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "45fc2677669bacb7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "ec8874211e335373",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "7d521fb4c3143315",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "c576528122e85081",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "9178c52c26481e1b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "e96cb68f2b7c724c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "f295fc7bcf9dae3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "b234c3f942f03b23",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "e93cd5af5e217d28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "4ad268d17f4299e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "017a5b1470cf3d24",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "5dcaf01426306711",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "193602a86b9cbd30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "86408d65ff9c03a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "896b6b5ce0a15a0d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "1f693d5aaf10ff96",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "677c384c40800cbc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "ba85661e0851f154",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "7bb769c46a4249cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "8dbd3c8335b44f6a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "e99b8ce6098a9ca8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "abbd0d30ce2b1084",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "761f407dc5d58f86",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "397e244c0f9969ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "7206e851c0643e4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "799fe036632fc794",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "2dae386c3f9e49cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "3478b360612135b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "471506f5ffa9f1ba",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "05db5835847c4f4b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "d4c3545d059f2d97",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "a2569f5d9a765b6b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "4234ae26b6a248da",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "graph-analysis"
+            }
+          }
+        ],
+        "currentTab": 53
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crea nuova Base": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "b8dc18a7d8bd53ba",
+  "lastOpenFiles": [
+    "CIRCUITI INTEGRATI E ARITMETICI.md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI 6.md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI 5.md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI 4.md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI 3.md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI 2.md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI(2).md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI(1).md",
+    "informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI 8.md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI 7.md",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/Pasted image 20260414194822.png",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/Pasted image 20260414200626.png",
+    "Pasted image 20260414200626.png",
+    "informatica/Calcolatori Elettronici/Metodologia di analisi-sintesi di Reti Combinatorie/Metodologia di analisi-sintesi di Reti Combinatorie.md",
+    "Pasted image 20260414194822.png",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/Pasted image 20260414193325.png",
+    "informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici",
+    "informatica/Calcolatori Elettronici/Algebra di Boole/ALGEBRA DI BOOLE.md",
+    "informatica/Algoritmi/Diagramma di flusso/DIAGRAMMA DI FLUSSO.md",
+    "informatica/Algoritmi/Diagramma di flusso",
+    "informatica/Algoritmi/Algoritmo di berger/ALGORITMO DI BERGER.md",
+    "informatica/Algoritmi/Algoritmo di berger",
+    "informatica/Microcontrollori-microprocessori/MICROCONTROLLORI E MICROPROCESSORI.md",
+    "START.md",
+    "maths/argomenti/Trigonometria/TRIGONOMETRIA.md",
+    "maths/MATHS.md",
+    "maths/argomenti/Trigonometria/angoli in radianti/ANGOLI IN RADIANTI.md",
+    "maths/argomenti/Trigonometria/ANGOLI IN RADIANTI.md",
+    "informatica/linguaggi-di-programmazione/C/argomenti/Libreria/LIBRERIE.md",
+    "informatica/linguaggi-di-programmazione/C/argomenti/Libreria/_stdio.h_/LIBRERIA _stdio.h_.md",
+    "Inglese/INGLESE.md",
+    "appunti-scuola/inglese/INGLESE.md",
+    "appunti-scuola/inglese/tecnico/parts/the-web-today/Senza nome",
+    "Inglese/tecnico/parts/the-web-today",
+    "informatica/concetti-base-sulle-reti/reti-wireless",
+    "Inglese/tecnico/parts/web-apps/Web Apps.jpeg",
+    "appunti-scuola/inglese/tecnico/parts/web-today/The Web Today.jpeg",
+    "appunti-scuola/concetti-informatica/normalizzazione/esempio1.png",
+    "appunti-scuola/concetti-informatica/normalizzazione/esempio2.png",
+    "appunti-scuola/concetti-informatica/normalizzazione/suddivisione-magazzino.png",
+    "appunti-scuola/concetti-informatica/normalizzazione",
+    "appunti-scuola/concetti-informatica/Nuova cartella",
+    "informatica/MVC",
+    "Inglese/tecnico/parts/web-apps"
+  ]
+}
