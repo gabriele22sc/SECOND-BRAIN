@@ -6,6 +6,7 @@
       {
         "id": "877e3c99436c0706",
         "type": "tabs",
+        "dimension": 31.032171581769436,
         "children": [
           {
             "id": "19d0f2942ae1611b",
@@ -37,6 +38,7 @@
       {
         "id": "d8dc46fe395cfde1",
         "type": "tabs",
+        "dimension": 68.96782841823055,
         "children": [
           {
             "id": "67e5c795bead245b",
@@ -51,8 +53,23 @@
               "icon": "lucide-file",
               "title": "CIRCUITI INTEGRATI E ARITMETICI"
             }
+          },
+          {
+            "id": "7b3d717d7c9b7606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/DISPOSITIVI LOGICI PROGRAMMABILI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DISPOSITIVI LOGICI PROGRAMMABILI"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8ccbdeb9ee5b29c3",
@@ -211,10 +229,15 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "19d0f2942ae1611b",
+  "active": "7b3d717d7c9b7606",
   "lastOpenFiles": [
-    "start/informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
+    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/Pasted image 20260418190732.png",
+    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/Pasted image 20260418190428.png",
+    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili",
+    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/DISPOSITIVI LOGICI PROGRAMMABILI.md",
     "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
+    "start/informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
+    "start/informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/Pasted image 20260418183130.png",
     "start/CIRCUITI INTEGRATI E ARITMETICI.md"
   ]
 }
