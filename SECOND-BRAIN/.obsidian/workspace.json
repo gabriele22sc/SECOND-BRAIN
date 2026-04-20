@@ -6,7 +6,7 @@
       {
         "id": "877e3c99436c0706",
         "type": "tabs",
-        "dimension": 19.88255033557047,
+        "dimension": 24.128686327077748,
         "children": [
           {
             "id": "19d0f2942ae1611b",
@@ -19,7 +19,7 @@
             }
           },
           {
-            "id": "a15db63d1a0d839d",
+            "id": "0e5ef8e8a91e1375",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,23 +38,38 @@
       {
         "id": "8cb07a32450d56e1",
         "type": "tabs",
-        "dimension": 80.11744966442953,
+        "dimension": 75.87131367292224,
         "children": [
           {
-            "id": "0e5ef8e8a91e1375",
+            "id": "a15db63d1a0d839d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione/INTRODUZIONE RETI SEQUENZIALI.md",
+                "file": "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/ANALISI DI RETI SEQUENZIALI SINCRONE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTRODUZIONE RETI SEQUENZIALI"
+              "title": "ANALISI DI RETI SEQUENZIALI SINCRONE"
+            }
+          },
+          {
+            "id": "07ab3aa7bf72a852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/sintesi reti sequenziali/SINTESI RETI SEQUENZIALI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SINTESI RETI SEQUENZIALI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8ccbdeb9ee5b29c3",
@@ -214,24 +228,30 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "0e5ef8e8a91e1375",
+  "active": "07ab3aa7bf72a852",
   "lastOpenFiles": [
-    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione/Pasted image 20260420145806.png",
-    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione",
     "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/sintesi reti sequenziali/SINTESI RETI SEQUENZIALI.md",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/sintesi reti sequenziali",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/ANALISI DI RETI SEQUENZIALI SINCRONE.md",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/Pasted image 20260420220544.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/Pasted image 20260420220520.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/Pasted image 20260420220442.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/Pasted image 20260420215528.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/Pasted image 20260420215454.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/Pasted image 20260420215347.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/Pasted image 20260420215304.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/Pasted image 20260420215017.png",
     "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione/INTRODUZIONE RETI SEQUENZIALI.md",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione/Pasted image 20260420214346.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione/Pasted image 20260420214244.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione",
     "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI",
     "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE",
     "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/DISPOSITIVI LOGICI PROGRAMMABILI.md",
     "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
-    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260420103331.png",
-    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260420102620.png",
-    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260420102238.png",
-    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260420101929.png",
-    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260418190732.png",
-    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260418190428.png",
     "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili",
-    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Circuiti integrati e aritmetici/Pasted image 20260418183130.png",
     "start/CIRCUITI INTEGRATI E ARITMETICI.md"
   ]
 }

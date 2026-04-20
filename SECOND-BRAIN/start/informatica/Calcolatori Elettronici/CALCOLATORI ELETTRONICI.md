@@ -1,5 +1,3 @@
-
-
 # Reti Combinatorie
 [[ALGEBRA DI BOOLE]]
 [[Metodologia di analisi-sintesi di Reti Combinatorie]]
@@ -7,3 +5,5 @@
 [[DISPOSITIVI LOGICI PROGRAMMABILI]]
 # Reti sequenziali
 [[INTRODUZIONE RETI SEQUENZIALI]]
+[[ANALISI DI RETI SEQUENZIALI SINCRONE]]
+[[SINTESI RETI SEQUENZIALI]]
