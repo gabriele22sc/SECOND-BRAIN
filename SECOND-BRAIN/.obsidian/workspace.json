@@ -6,7 +6,7 @@
       {
         "id": "877e3c99436c0706",
         "type": "tabs",
-        "dimension": 31.03217158176944,
+        "dimension": 19.88255033557047,
         "children": [
           {
             "id": "19d0f2942ae1611b",
@@ -36,40 +36,25 @@
         "currentTab": 1
       },
       {
-        "id": "d8dc46fe395cfde1",
+        "id": "8cb07a32450d56e1",
         "type": "tabs",
-        "dimension": 68.96782841823057,
+        "dimension": 80.11744966442953,
         "children": [
           {
-            "id": "67e5c795bead245b",
+            "id": "0e5ef8e8a91e1375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start/informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
+                "file": "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione/INTRODUZIONE RETI SEQUENZIALI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIRCUITI INTEGRATI E ARITMETICI"
-            }
-          },
-          {
-            "id": "7b3d717d7c9b7606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/DISPOSITIVI LOGICI PROGRAMMABILI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DISPOSITIVI LOGICI PROGRAMMABILI"
+              "title": "INTRODUZIONE RETI SEQUENZIALI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,19 +214,24 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "7b3d717d7c9b7606",
+  "active": "0e5ef8e8a91e1375",
   "lastOpenFiles": [
-    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/Pasted image 20260420103331.png",
-    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/Pasted image 20260420102620.png",
-    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/Pasted image 20260420102238.png",
-    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/Pasted image 20260420101929.png",
-    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/Pasted image 20260418190732.png",
-    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/Pasted image 20260418190428.png",
-    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili",
-    "start/informatica/Calcolatori Elettronici/Dispositivi Logici Programmabili/DISPOSITIVI LOGICI PROGRAMMABILI.md",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione/Pasted image 20260420145806.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione",
     "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
-    "start/informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
-    "start/informatica/Calcolatori Elettronici/Circuiti integrati e aritmetici/Pasted image 20260418183130.png",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione/INTRODUZIONE RETI SEQUENZIALI.md",
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/DISPOSITIVI LOGICI PROGRAMMABILI.md",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260420103331.png",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260420102620.png",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260420102238.png",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260420101929.png",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260418190732.png",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/Pasted image 20260418190428.png",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Circuiti integrati e aritmetici/Pasted image 20260418183130.png",
     "start/CIRCUITI INTEGRATI E ARITMETICI.md"
   ]
 }
