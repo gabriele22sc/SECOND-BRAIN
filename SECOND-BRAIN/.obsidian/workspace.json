@@ -6,7 +6,7 @@
       {
         "id": "877e3c99436c0706",
         "type": "tabs",
-        "dimension": 24.128686327077748,
+        "dimension": 24.12868632707775,
         "children": [
           {
             "id": "19d0f2942ae1611b",
@@ -38,7 +38,7 @@
       {
         "id": "8cb07a32450d56e1",
         "type": "tabs",
-        "dimension": 75.87131367292224,
+        "dimension": 75.87131367292226,
         "children": [
           {
             "id": "a15db63d1a0d839d",
@@ -228,10 +228,13 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "07ab3aa7bf72a852",
+  "active": "0e5ef8e8a91e1375",
   "lastOpenFiles": [
-    "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
+    "start/informatica/ISH/ISH.md",
+    "start/informatica/INFORMATICA.md",
+    "start/informatica/ISH",
     "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/sintesi reti sequenziali/SINTESI RETI SEQUENZIALI.md",
+    "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
     "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/sintesi reti sequenziali",
     "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/ANALISI DI RETI SEQUENZIALI SINCRONE.md",
     "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone/Pasted image 20260420220544.png",

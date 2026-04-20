@@ -40,6 +40,8 @@ Comunicazione: scambio di informazioni
 [[MICROCONTROLLORI E MICROPROCESSORI]]
 [[SOFTWARE]]
 [[CALCOLATORI ELETTRONICI]]
+[[ISH]]
+
 # eser
 [[conversioni binarie]]
 
