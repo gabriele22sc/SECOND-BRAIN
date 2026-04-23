@@ -99,3 +99,36 @@ Il valore contenuto all'indirizzo `0005`(`36CF`), viaggia sul bus dati e viene c
 
 ## Memory Store:
 Se l'istruzione prevede il salvataggio di un risultato in memoria, il dato viene trasferito da un registro alla cella di memoria specificata
+
+### Indirizzo Assoluto
+![[Pasted image 20260423183258.png]]
+- **Dalla Control Unit al Bus Indirizzi e memoria**: la CPU sta comunicando alla memoria l'indirizzo da cui vuole leggere. Il Program Counter(PC) contiene `0005`, che è la posizione della memoria subito dopo l'istruzione, dove è memorizzato l'indirizzo di destinazione finale.
+- **Dalla Control Unit al Bus di controllo e memoria**: la CPU sta impostando i segnali di controllo per questa fase. Anche se l'istruzione totale è uno "Store", in questo istante la CPU deve leggere l'indirizzo dalla memoria, quindi imposta:
+	- $M/\bar{IO}=1$: indica che sta parlando con la memoria;
+	- $R/\bar{W}=1$: indica un'operazione di lettura per prelevare l'indirizzo;
+	- $W/\bar{B}=1$: indica che sta leggendo una parola intera(word).
+![[Pasted image 20260423184224.png]]
+In questa fase la CPU ha già prelevato l'indirizzo di destinazione e si prepara a scrivere il dato contenuto nel registro $R0$.
+- **Dalla CU al bus di controllo e memoria**: questa rappresenta l'attivazione dei segnali di controllo necessari per la scrittura. La CU imposta il bus:
+	1. $M/\bar{IO}=1$: indica alla memoria che l'operazione riguarda lei e non i dispositivi di I/O;
+	2. $R/\bar{W}=0$: è il segnale di scrittura. Indica alla memoria di prepararsi a ricevere un dato e salvarlo;
+	3. $W/\bar{B}=1$: specifica che l'operazione deve coinvolgere una word intera(16 bit).
+- **Dagli indirizzi della memoria(`0005`,`0006`) alla memoria(`0000`)**: la CPU usa il valore contenuto nelle celle `0005` e `0006`:
+	1. **Dal bus dati al bus indirizzi**: prende i valori contenuti nei due indirizzi e li utilizza, passandoli al bus indirizzi, come indirizzo in cui andrà a puntare.
+	2. **Dal bus indirizzi alla memoria**: il bus indirizzi punterà alla cella `0000` in memoria.
+- **Incremento del PC(Program Counter)**: viene incrementato da `0005` a `0007`, perché la CU ha terminato di gestire l'istruzione corrente e si prepara a leggere la prossima istruzione che si trova a due posizioni più avanti in memoria.
+
+![[Pasted image 20260423185942.png]]
+- **Dall'ALU($R0$) alla memoria**: indica che il valore `3003` è stato scritto all'interno della memoria nelle celle `0000` e `0001` rispettivamente in `03` e `30`.
+
+### Indirizzo in registro
+![[Pasted image 20260423190451.png]]
+In questo caso, l'indirizzo di memoria dove scrivere non è scritto nell'istruzione, ma è contenuto dentro uno dei registri della CPU:
+- **Dal registro alla memoria**: l'indirizzo su cui operare stavolta non si trova nel Program counter ma nel registro $R1$(`0006`);
+- **Dalla CU alla memoria**: il bus di controllo definisce i parametri dell'opzione:
+	1. $M/\bar{IO}=1$: indica che la destinazione è la memoria;
+	2. $R/\bar{W}=0$: indica un'operazione di scrittura;
+	3. $W/\bar{B}=1$: indica che si scriverà una word intera(16 bit).
+![[Pasted image 20260423204808.png]]
+- **Dall'ALU alla memoria**: indica che il valore `2297`, prelevato dal registro $R0$, è stato scritto fisicamente nella cella di memoria di destinazione;
+L'indirizzo `0006` e l'indirizzo `0007` contengono il valore salvato in precedenza nel registro.
