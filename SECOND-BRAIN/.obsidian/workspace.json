@@ -6,7 +6,7 @@
       {
         "id": "8cb07a32450d56e1",
         "type": "tabs",
-        "dimension": 13.404825737265416,
+        "dimension": 13.404825737265417,
         "children": [
           {
             "id": "19d0f2942ae1611b",
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "equazioni differe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "8ccbdeb9ee5b29c3",
@@ -258,11 +257,14 @@
   },
   "active": "71f6108751df0457",
   "lastOpenFiles": [
+    "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/Pasted image 20260514002944.png",
+    "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/TIPOLOGIE DI EQUAZIONI DIFFERENZIALI.md",
+    "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/Pasted image 20260514003957.png",
+    "Pasted image 20260514002901.png",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/Pasted image 20260513100801.png",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423204808.png",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423190451.png",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423185942.png",
-    "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/TIPOLOGIE DI EQUAZIONI DIFFERENZIALI.md",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali",
     "start/maths/argomenti/equazioni differenziali/EQUAZIONI DIFFERENZIALI.md",
     "start/maths/MATHS.md",
@@ -276,11 +278,7 @@
     "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
     "start/informatica/ISH/ISH.md",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260422142345.png",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260422140823.png",
     "start/NOTE.md",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260422125438.png",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260422123834.png",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260422123153.png",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY",
     "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Registri e Contatori/REGISTRI E CONTATORI.md",
