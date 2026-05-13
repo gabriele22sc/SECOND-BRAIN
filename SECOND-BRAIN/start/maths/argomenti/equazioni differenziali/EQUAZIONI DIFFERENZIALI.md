@@ -1,2 +1,3 @@
-![[equazioni differenziali.jpg]]
-![[separazione delle variabili.jpg]]
+[[EQUAZIONI DIFFERENZIALI(bileci)]]
+
+[[TIPOLOGIE DI EQUAZIONI DIFFERENZIALI]]

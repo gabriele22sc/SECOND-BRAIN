@@ -49,7 +49,7 @@ Passando da un membro all’altro
  2. la stessa variabile negata in un altro termine $\bar{X}$ in $\bar{X}Z$;
  3. un terzo termine formato esattamente dalle due variabili rimanenti moltiplicate tra loro, $YZ$(termine del consenso).
  **Dimostrazione**![[Pasted image 20260217111215.png]]
-## Tecnica della riduzione algebrica 
+## Tecnica della riduzione algebrica(SAR)
 Riduzione algebrica sistematica(**SAR**, Systematic Algebric Reduction):
 1. Esprimere la funzione in forma SOP;
 2. Riordinare le variabili;
