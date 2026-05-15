@@ -6,7 +6,7 @@
       {
         "id": "8cb07a32450d56e1",
         "type": "tabs",
-        "dimension": 13.404825737265417,
+        "dimension": 17.636684303350968,
         "children": [
           {
             "id": "19d0f2942ae1611b",
@@ -30,6 +30,20 @@
               },
               "icon": "lucide-file",
               "title": "CALCOLATORI ELETTRONICI"
+            }
+          },
+          {
+            "id": "62d4fe122b99d94a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CIRCUITI INTEGRATI E ARITMETICI"
             }
           },
           {
@@ -60,12 +74,13 @@
               "title": "ALGEBRA DI BOOLE"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e0348753a0ae8348",
         "type": "tabs",
-        "dimension": 86.59517426273459,
+        "dimension": 82.36331569664902,
         "children": [
           {
             "id": "ac0b781f6c78e060",
@@ -94,9 +109,37 @@
               "icon": "lucide-file",
               "title": "TIPOLOGIE DI EQUAZIONI DIFFERENZIALI"
             }
+          },
+          {
+            "id": "749e367b4addac22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/STUDIO DI FUNZIONE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "STUDIO DI FUNZIONE"
+            }
+          },
+          {
+            "id": "3a8df3f4ab958142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/maths/argomenti/Introduzione ai limiti/limiti/LIMITI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LIMITI"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "teorema degli zeri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +192,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,10 +299,13 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "71f6108751df0457",
+  "active": "3a8df3f4ab958142",
   "lastOpenFiles": [
-    "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/Pasted image 20260514002944.png",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/STUDIO DI FUNZIONE.md",
+    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
+    "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/TIPOLOGIE DI EQUAZIONI DIFFERENZIALI.md",
+    "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/Pasted image 20260514002944.png",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/Pasted image 20260514003957.png",
     "Pasted image 20260514002901.png",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/Pasted image 20260513100801.png",
@@ -275,7 +322,6 @@
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/ARCHITETTURA DEL CALCOLATORE.md",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423184224.png",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423183258.png",
-    "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
     "start/informatica/ISH/ISH.md",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260422142345.png",
     "start/NOTE.md",
@@ -292,7 +338,6 @@
     "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone",
     "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione",
     "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/DISPOSITIVI LOGICI PROGRAMMABILI.md",
-    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
     "start/CIRCUITI INTEGRATI E ARITMETICI.md"
   ]
 }
