@@ -6,7 +6,7 @@
       {
         "id": "8cb07a32450d56e1",
         "type": "tabs",
-        "dimension": 17.636684303350968,
+        "dimension": 13.404825737265417,
         "children": [
           {
             "id": "19d0f2942ae1611b",
@@ -80,7 +80,7 @@
       {
         "id": "e0348753a0ae8348",
         "type": "tabs",
-        "dimension": 82.36331569664902,
+        "dimension": 86.59517426273459,
         "children": [
           {
             "id": "ac0b781f6c78e060",
@@ -88,26 +88,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start/maths/argomenti/equazioni differenziali/EQUAZIONI DIFFERENZIALI.md",
+                "file": "start/maths/MATHS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EQUAZIONI DIFFERENZIALI"
+              "title": "MATHS"
             }
           },
           {
-            "id": "71f6108751df0457",
+            "id": "66739b98a74a89f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/TIPOLOGIE DI EQUAZIONI DIFFERENZIALI.md",
+                "file": "start/maths/argomenti/Derivata/DERIVATA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIPOLOGIE DI EQUAZIONI DIFFERENZIALI"
+              "title": "DERIVATA"
+            }
+          },
+          {
+            "id": "6908d3a8ec65a23e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/maths/argomenti/Introduzione ai limiti/Introduzione/INTRODUZIONE AI LIMITI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INTRODUZIONE AI LIMITI"
+            }
+          },
+          {
+            "id": "be7e8671a9c4ac51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/maths/argomenti/Studio di funzione reale di variabile reale/STUDIO DI FUNZIONE REALE DI VARIABILE REALE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "STUDIO DI FUNZIONE REALE DI VARIABILE REALE"
             }
           },
           {
@@ -123,23 +151,9 @@
               "icon": "lucide-file",
               "title": "STUDIO DI FUNZIONE"
             }
-          },
-          {
-            "id": "3a8df3f4ab958142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "start/maths/argomenti/Introduzione ai limiti/limiti/LIMITI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LIMITI"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "teorema degli zeri",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,12 +206,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "8ccbdeb9ee5b29c3",
@@ -299,31 +313,38 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "3a8df3f4ab958142",
+  "active": "66739b98a74a89f6",
   "lastOpenFiles": [
     "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/STUDIO DI FUNZIONE.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Classificazione delle funzioni/CLASSIFICAZIONE DELLE FUNZIONI.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/STUDIO DI FUNZIONE REALE DI VARIABILE REALE.md",
+    "start/maths/argomenti/Derivata/DERIVATA.md",
+    "start/maths/argomenti/Introduzione ai limiti/Introduzione/INTRODUZIONE AI LIMITI.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/funzioni e le loro proprietà/FUNZIONI E LE LORO PROPRIETÀ.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526114754.png",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526114659.png",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526114255.png",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526110711.png",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526110420.png",
+    "start/maths/argomenti/Equazioni-Disequazioni/equazioni-1-2-grado/EQUAZIONI DI PRIMO E SECONDO GRADO-DISEQUAZIONI.md",
+    "start/maths/MATHS.md",
+    "start/maths/argomenti/Introduzione ai limiti/limiti/LIMITI.md",
+    "start/maths/argomenti/equazioni differenziali/EQUAZIONI DIFFERENZIALI.md",
+    "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/TIPOLOGIE DI EQUAZIONI DIFFERENZIALI.md",
     "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
     "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
-    "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/TIPOLOGIE DI EQUAZIONI DIFFERENZIALI.md",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/Pasted image 20260514002944.png",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/Pasted image 20260514003957.png",
     "Pasted image 20260514002901.png",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/Pasted image 20260513100801.png",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423204808.png",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423190451.png",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423185942.png",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali",
-    "start/maths/argomenti/equazioni differenziali/EQUAZIONI DIFFERENZIALI.md",
-    "start/maths/MATHS.md",
     "start/maths/argomenti/equazioni differenziali/appunti bileci/EQUAZIONI DIFFERENZIALI(bileci).md",
     "start/maths/argomenti/equazioni differenziali/equazione diff. di ordine n",
     "start/maths/argomenti/equazioni differenziali/appunti bileci",
     "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Algebra di Boole/ALGEBRA DI BOOLE.md",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/ARCHITETTURA DEL CALCOLATORE.md",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423184224.png",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423183258.png",
     "start/informatica/ISH/ISH.md",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260422142345.png",
     "start/NOTE.md",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore",
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY",

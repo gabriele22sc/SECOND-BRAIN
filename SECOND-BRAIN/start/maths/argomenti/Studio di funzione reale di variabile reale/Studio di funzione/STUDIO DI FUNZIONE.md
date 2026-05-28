@@ -37,13 +37,32 @@ $y=y_0$ se almeno uno dei limiti $\lim_{x\to+\infty}f(x)$ e $\lim_{x\to-\infty}f
 $y=mx+q$, con $m=\lim_{x\to+\infty}\frac{f(x)}{x}$ e $q=\lim_{x\to+\infty}[f(x)-mx]$, oppure $m=\lim_{x\to-\infty}\frac{f(x)}{x}$ e $q=\lim{x\to-\infty}[f(x)-mx]$, con $m$,$q\in\mathbb{R}$ e $m\neq0$. **NB**: l'asintoto obliquo va cercato solo se non è presente quello orizzontale.
 
 # 6) Derivata prima $f'(x)$
-- dominio;
+negli intervalli in cui la derivata prima è positiva, $f(x)$ è crescente;
+negli intervalli in cui la derivata prima è negativa, $f(x)$ è decrescente;
+
+Se la derivata prima si annulla in $x_0$, ovvero $f'(x_0)=0$, ci sono 4 possibilità:
+![[Pasted image 20260526110420.png]]
+
+Se la derivata prima non è definita in $x_0$, ovvero $\nexists f'(x_0)$, ci sono 3 possibilità:
+![[Pasted image 20260526114255.png]]
+uno volta terminato lo studio di $f'(x)$, conviene aggiornare subito il disegno.
+
+
+
 - zeri di $f'(x)$;
 - del segno della derivata prima determiniamo **crescenza** e **decrescenza**;
-- cerchiamo anche i <u>punti di massimo/minimo</u>, <u>flesso orizzontale</u> e i <u>punti di non derivabilità</u>(flessi verticali, cuspidi e punti angolosi).
+- cerchiamo anche i <u>punti di massimo/minimo</u>, <u>flesso orizzontale</u> e i <u>punti di non derivabilità</u> (flessi verticali, cuspidi e punti angolosi).
 
 # 7) Derivata seconda $f''(x)$
-- dominio;
-- zeri di $f''(x)$;
+Negli intervalli in cui la derivata seconda è positiva $f(x)$ è convessa (concavità verso l'alto)
+
+Negli intervalli in cui la derivata seconda è negativa $f(x)$ è concava (concavità verso il basso)
+
+Se a cavallo di un certo punto $x_0$ si annulla e cambia di segno la derivata seconda
+![[Pasted image 20260526114659.png]]
+ ![[Pasted image 20260526114754.png]]
+
+
 - dal segno della derivata seconda determiniamo concavità verso l'alto o verso il basso;
+
 - cerchiamo anche i <u>punti di flesso a tangente obliqua</u> e, se presente, la <u>tangente inflessionale</u>.
