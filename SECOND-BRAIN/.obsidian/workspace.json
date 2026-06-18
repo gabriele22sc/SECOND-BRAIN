@@ -6,7 +6,6 @@
       {
         "id": "8cb07a32450d56e1",
         "type": "tabs",
-        "dimension": 13.404825737265417,
         "children": [
           {
             "id": "19d0f2942ae1611b",
@@ -19,141 +18,49 @@
             }
           },
           {
-            "id": "0e5ef8e8a91e1375",
+            "id": "2da387551841346f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start/informatica/Calcolatori Elettronici/CALCOLATORI ELETTRONICI.md",
+                "file": "start/trading/TRADING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CALCOLATORI ELETTRONICI"
+              "title": "TRADING"
             }
           },
           {
-            "id": "62d4fe122b99d94a",
+            "id": "0c4fd2546054c2a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Circuiti integrati e aritmetici/CIRCUITI INTEGRATI E ARITMETICI.md",
+                "file": "start/trading/young platform/YOUNG PLATFORM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIRCUITI INTEGRATI E ARITMETICI"
+              "title": "YOUNG PLATFORM"
             }
           },
           {
-            "id": "52d0b75a2f10f96d",
+            "id": "b0ea93a5699a0030",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/ARCHITETTURA DEL CALCOLATORE.md",
+                "file": "start/trading/young platform/yng step/YNG STEP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARCHITETTURA DEL CALCOLATORE"
-            }
-          },
-          {
-            "id": "90968d34aeef4b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Algebra di Boole/ALGEBRA DI BOOLE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ALGEBRA DI BOOLE"
+              "title": "YNG STEP"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "e0348753a0ae8348",
-        "type": "tabs",
-        "dimension": 86.59517426273459,
-        "children": [
-          {
-            "id": "ac0b781f6c78e060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "start/maths/MATHS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATHS"
-            }
-          },
-          {
-            "id": "66739b98a74a89f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "start/maths/argomenti/Derivata/DERIVATA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DERIVATA"
-            }
-          },
-          {
-            "id": "6908d3a8ec65a23e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "start/maths/argomenti/Introduzione ai limiti/Introduzione/INTRODUZIONE AI LIMITI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "INTRODUZIONE AI LIMITI"
-            }
-          },
-          {
-            "id": "be7e8671a9c4ac51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "start/maths/argomenti/Studio di funzione reale di variabile reale/STUDIO DI FUNZIONE REALE DI VARIABILE REALE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "STUDIO DI FUNZIONE REALE DI VARIABILE REALE"
-            }
-          },
-          {
-            "id": "749e367b4addac22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/STUDIO DI FUNZIONE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "STUDIO DI FUNZIONE"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,13 +220,19 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "66739b98a74a89f6",
+  "active": "b0ea93a5699a0030",
   "lastOpenFiles": [
+    "start/trading/young platform/yng step",
+    "start/trading/young platform/yng step/YNG STEP.md",
+    "start/trading/young platform/YOUNG PLATFORM.md",
+    "start/trading/TRADING.md",
+    "start/trading/young platform",
     "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/STUDIO DI FUNZIONE.md",
-    "start/maths/argomenti/Studio di funzione reale di variabile reale/Classificazione delle funzioni/CLASSIFICAZIONE DELLE FUNZIONI.md",
     "start/maths/argomenti/Studio di funzione reale di variabile reale/STUDIO DI FUNZIONE REALE DI VARIABILE REALE.md",
-    "start/maths/argomenti/Derivata/DERIVATA.md",
     "start/maths/argomenti/Introduzione ai limiti/Introduzione/INTRODUZIONE AI LIMITI.md",
+    "start/maths/argomenti/Derivata/DERIVATA.md",
+    "start/maths/MATHS.md",
+    "start/maths/argomenti/Studio di funzione reale di variabile reale/Classificazione delle funzioni/CLASSIFICAZIONE DELLE FUNZIONI.md",
     "start/maths/argomenti/Studio di funzione reale di variabile reale/funzioni e le loro proprietà/FUNZIONI E LE LORO PROPRIETÀ.md",
     "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526114754.png",
     "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526114659.png",
@@ -327,7 +240,6 @@
     "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526110711.png",
     "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526110420.png",
     "start/maths/argomenti/Equazioni-Disequazioni/equazioni-1-2-grado/EQUAZIONI DI PRIMO E SECONDO GRADO-DISEQUAZIONI.md",
-    "start/maths/MATHS.md",
     "start/maths/argomenti/Introduzione ai limiti/limiti/LIMITI.md",
     "start/maths/argomenti/equazioni differenziali/EQUAZIONI DIFFERENZIALI.md",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali/TIPOLOGIE DI EQUAZIONI DIFFERENZIALI.md",
@@ -355,10 +267,6 @@
     "start/informatica/INFORMATICA.md",
     "start/informatica/ISH",
     "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/sintesi reti sequenziali",
-    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione/INTRODUZIONE RETI SEQUENZIALI.md",
-    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone",
-    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Introduzione",
-    "start/informatica/Calcolatori Elettronici/RETI COMBINATORIE/Dispositivi Logici Programmabili/DISPOSITIVI LOGICI PROGRAMMABILI.md",
-    "start/CIRCUITI INTEGRATI E ARITMETICI.md"
+    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Analisi di reti sequenziali sincrone"
   ]
 }
