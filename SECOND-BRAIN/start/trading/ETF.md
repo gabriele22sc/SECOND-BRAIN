@@ -1,3 +1,8 @@
+# Link
+[[Per il futuro]]
+
+# Cos'è un ETF?
+
 Un **Exchange-traded Fund(ETF)** o fondo scambiato in borsa, è un tipo di fondo d'investimento quotato e negoziato in borsa, similmente ad un azione. I concetti chiave:
 - **Fondo d'investimento** → un ETF raccoglie capitali da diversi investitori per investire in un insieme di titoli;
 - **Responsabilità limitata** → gli investitori non rischiano più di quanto abbiano investito, se il valore dell'ETF scende non potranno perdere più del capitale che hanno versato;
