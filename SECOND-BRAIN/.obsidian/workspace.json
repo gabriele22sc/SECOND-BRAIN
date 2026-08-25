@@ -22,21 +22,35 @@
             }
           },
           {
-            "id": "7a9ba1346e9b55bf",
+            "id": "60f1be1543e7afe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REALIZZAZIONE SITI WEB.md",
+                "file": "start/informatica/software/windows/WINDOWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REALIZZAZIONE SITI WEB"
+              "title": "WINDOWS"
+            }
+          },
+          {
+            "id": "ca3438403e4dbc8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/informatica/software/windows/componenti-e-altro/REGISTRI(regedit).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REGISTRI(regedit)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:start/informatica/realizzazione-siti-web  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,11 +211,17 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "7a9ba1346e9b55bf",
+  "active": "ca3438403e4dbc8b",
   "lastOpenFiles": [
-    "start/informatica/realizzazione-siti-web",
-    "REALIZZAZIONE SITI WEB.md",
     "start/informatica/INFORMATICA.md",
+    "start/informatica/realizzazione-siti-web/REALIZZAZIONE SITI WEB.md",
+    "start/informatica/hardware/HARDWARE.md",
+    "start/informatica/software/windows/WINDOWS.md",
+    "start/informatica/software/SOFTWARE.md",
+    "start/informatica/software/windows/componenti-e-altro/REGISTRI(regedit).md",
+    "start/informatica/software/windows/componenti-e-altro",
+    "start/informatica/software/windows",
+    "start/informatica/realizzazione-siti-web",
     "start/libri/letti/libri-letti/CLEAN CODE (Robert C. Martin).md",
     "start/informatica/manutenzione-pc/MANUTENZIONE-PC.md",
     "start/libri/consigliati/CONSIGLIATI.md",
@@ -226,10 +246,6 @@
     "start/trading/young platform/yng step",
     "start/trading/young platform",
     "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/STUDIO DI FUNZIONE.md",
-    "start/maths/argomenti/Studio di funzione reale di variabile reale/STUDIO DI FUNZIONE REALE DI VARIABILE REALE.md",
-    "start/maths/argomenti/Introduzione ai limiti/Introduzione/INTRODUZIONE AI LIMITI.md",
-    "start/maths/argomenti/Derivata/DERIVATA.md",
-    "start/maths/MATHS.md",
     "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526114754.png",
     "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526114659.png",
     "start/maths/argomenti/Studio di funzione reale di variabile reale/Studio di funzione/Pasted image 20260526114255.png",
@@ -242,9 +258,6 @@
     "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore/Pasted image 20260423204808.png",
     "start/maths/argomenti/equazioni differenziali/tipologia di eq. differenziali",
     "start/maths/argomenti/equazioni differenziali/equazione diff. di ordine n",
-    "start/maths/argomenti/equazioni differenziali/appunti bileci",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY/architettura del calcolatore",
-    "start/informatica/Calcolatori Elettronici/PROGRAMMAZIONE ASSEMBLY",
-    "start/informatica/Calcolatori Elettronici/RETI SEQUENZIALI/Registri e Contatori"
+    "start/maths/argomenti/equazioni differenziali/appunti bileci"
   ]
 }

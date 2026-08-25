@@ -25,6 +25,7 @@ Se durante questa fase di test vengono rilevati errori(malfunzionamenti) la CPU 
 Se la sequenza di POST termina senza errori, il BIOS procede con la sequenza di caricamento detta **bootstrap**. Questa operazione carica nella RAM il sistema operativo.
 
 # Sistema Operativo
+[[WINDOWS]]
 A seconda di come il SO dialoga con l‘utente(interfaccia utente), esso può essere:
 - **Command line**: l’interfaccia è scarna e l’utente deve conoscere i comandi permessi e la loro sintassi (es. MS-DOS);
 - **Graphic User Interface(GUI)**: tutti i programmi e le funzioni sono mostrate sullo schermo mediante simboli immediatamente riconoscibili, l’approccio è intuitivo e facile da gestire(es. Windows, Linux, Mac-OS).
